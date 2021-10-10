@@ -23,7 +23,7 @@ function moduler() {
 
 function reset() {
   document.querySelector("h1").textContent = "0";
-  document.querySelector("p").textContent = "0";
+  document.querySelector("p").textContent = "";
   display = "";
   opera = "";
   num1 = 0;
